@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reza
+# 👋 Hi, I'm Reda
 
 💻 Self-Developing Programmer | Hard Worker | Passionate Learner
 
