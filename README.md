@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Reda
+# 👋 Hi, I'm Rada
 
 💻 Self-Developing Programmer | Hard Worker | Passionate Learner
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a motivated programmer focused on continuous self-development.  
 I believe that **learning is life**, and I work hard every day to improve my skills and reach my goals.
 
-- 🔭 Currently improving my programming and development skills
-- 🎯 Goal: Get Hired as a Professional Developer
-- 💡 Mindset: Never stop learning
+-  Currently improving my programming and development skills
+-  Goal: Get Hired as a Professional Developer
+-  Mindset: Never stop learning
 
 ---
 
@@ -30,6 +30,7 @@ I believe that **learning is life**, and I work hard every day to improve my ski
 - Entity Relationship Diagrams (ERD)
 - Database Schema Modeling
 - Normalization
+- Backend & Database Integration
 
 ### 🧠 Core Skills
 - Problem Solving
@@ -40,13 +41,21 @@ I believe that **learning is life**, and I work hard every day to improve my ski
 
 ---
 
-## 📈 Career Goals
+## 📚 Continuous Learning
 
-- Build real-world applications
-- Improve problem-solving skills
-- Master backend and database development
-- Work with professional development teams
-- Get hired as a developer
+- Completed structured programming courses
+- Solving algorithmic problems regularly
+- Building real-world projects to strengthen practical skills
+
+---
+
+## 📈 Career Focus
+
+- Build structured, maintainable applications
+- Improve system design thinking
+- Strengthen database architecture knowledge
+- Work in a professional development environment
+- Secure a professional software development position
 
 ---
 
@@ -59,6 +68,6 @@ I believe that **learning is life**, and I work hard every day to improve my ski
 ## 📫 Connect With Me
 
 Feel free to explore my repositories and follow my learning journey 🚀  
-I'm always open to growth and new challenges.
+I'm always open to growth, learning, and professional challenges.
 
 ⭐ If you like my projects, don’t forget to star them!
